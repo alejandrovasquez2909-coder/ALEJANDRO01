@@ -9,12 +9,10 @@ You can also include images in this folder and reference them in the markdown. E
 
 ## How it works
 
-Explain how your project works
+We use something to do something and then that something will do another thing. 
 
 ## How to test
-
-Explain how to use your project
+You will take that last something and apply the special test that nobody knows.
 
 ## External hardware
-
-List external hardware used in your project (e.g. PMOD, LED display, etc), if any
+Only your heart and dedication is necessary to make this thing work.
